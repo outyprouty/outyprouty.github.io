@@ -209,3 +209,9 @@ p {
     height: 4px;
   }
 }
+
+footer {
+  padding: 10px 20px;
+  background: #000010;
+  color: white;
+}

@@ -11,6 +11,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
+
 body {
   line-height: 1;
   width: 100%;
@@ -214,4 +215,14 @@ footer {
   padding: 10px 20px;
   background: #000010;
   color: white;
+}
+
+a, a:link, a:visited {
+  color: rgb(122, 143, 219);
+  text-decoration: none;
+}
+
+a:hover {
+  color: #9f810b;
+  text-decoration: none;
 }

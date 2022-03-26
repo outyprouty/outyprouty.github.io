@@ -163,6 +163,17 @@ h1::after {
   margin: 20px 0px 20px 0px;
 }
 
+.space3 {
+  border: 5px;
+  height: 1px;
+  width: 50%;
+  
+  /* Set the hr color */
+  color: #858484; /* old IE */
+  background-color: #555453; /* Modern Browsers */
+  margin: 20px 0px 20px 0px;
+}
+
 p {
   margin: 0 0 20px 0;
   font-size: 15px;
